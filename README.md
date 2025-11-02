@@ -1,7 +1,7 @@
-- sup 👋, I’m Niyaz
-- analytical problem solver from Krakow
-- currently studying Computer Science and Intelligent Systems at AGH University
-- interested in AI, Web3.0 and Finance
+- sup 👋. I’m Niyaz
+- problem solver from Krakow
+- Computer Science and Intelligent Systems at AGH University(2nd year)
+- focused on AI in Web3.0 and Finance
 - strategically creating bugs since 2019
 
 <!---
