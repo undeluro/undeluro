@@ -1,6 +1,6 @@
 # Hey 👋, I’m Niyaz
 - Computer Science and Intelligent Systems at AGH University (2nd year)
-- Focused on AI in Web3 and Finance
+- AI, Web3, Finance
 - Problem-solving since 2019
 
 <!---
