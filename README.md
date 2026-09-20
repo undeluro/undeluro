@@ -1,7 +1,6 @@
 # Hey 👋, I’m Niyaz
-- Computer Science and Intelligent Systems at AGH University (2nd year)
+- Computer Science and Intelligent Systems at AGH University (3nd year)
 - AI, Web3, Finance
-- Problem-solving since 2019
 
 <!---
 undeluro/undeluro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
